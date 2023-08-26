@@ -11,4 +11,4 @@ This is a documentation webpage which is made in Nextra for the sole purpose of 
 
 - `pages/foldername/file2.mdx`
 
-Check official docs here : www.google.com
+Check official docs here : www.nextra.site/docs/docs-theme/

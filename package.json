@@ -7,12 +7,15 @@
     "react-dom": "^18.2.0"
   },
   "name": "next-documentation",
-  "description": "documentation website",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "documentation website for further projects, open source and updates",
+  "main": "next.config.js",
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build"
   },
-  "author": "",
+  "author": "Shayan",
   "license": "ISC"
 }

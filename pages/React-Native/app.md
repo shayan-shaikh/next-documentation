@@ -1,0 +1,1 @@
+# Placeholder for React Native app documentation and progress
